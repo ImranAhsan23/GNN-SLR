@@ -1,0 +1,11 @@
+representation_model,count
+LSTM,125
+BERT,22
+Doc2Vec,3
+ResNet,11
+Short-text topic model/bi-term topic model,1
+Node2Vec,13
+Word2Vec,8
+GloVe,2
+Gated CNN,2
+Not discussed,176

@@ -1,0 +1,10 @@
+aggregation_function,count
+Attention aggregation + mean,2
+Attention aggregator,77
+Global max-pooling,4
+Max-pooling aggregator,18
+Mean aggregator,44
+Mean max-pooling,2
+Message passing-based aggregation,202
+Sum aggregator,9
+Other,5

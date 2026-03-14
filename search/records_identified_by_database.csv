@@ -1,0 +1,5 @@
+Database,Search fields,Final search string,Coverage,Filters,Records identified
+IEEE,All Metadata,"""All Metadata"":""Graph Neural Network"" AND ""All Metadata"":""GNN"" AND ""All Metadata"":""Graph Neural Network based classification"" AND ""All Metadata"":""GNN based classification""",2019-February 2026,English; publication years 2019-2026,2732
+ACM,All metadata in ACM Full-Text Collection,"([All:""all metadata""] OR [All::graph neural network]) AND ([All:""all metadata""] OR [All::gnn]) AND ([All:""all metadata""] OR [All::graph neural network based classification]) AND ([All:""all metadata""] OR [All::gnn based classification])",2019-February 2026,English; publication years 2019-2026,5781
+Elsevier,ScienceDirect content search,(Graph Neural Network) AND (GNN) AND (Graph Neural Network based classification) AND (GNN based classification),2019-February 2026,English; publication years 2019-2026,3746
+Springer,SpringerLink general search field,(Graph Neural Network) AND (GNN) AND (Graph Neural Network based classification) AND (GNN based classification),2019-February 2026,English; publication years 2019-2026,5472

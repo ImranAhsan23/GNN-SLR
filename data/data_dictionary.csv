@@ -1,0 +1,44 @@
+column,description,source_sheet
+id,Internal study ID used in extraction workbook,Horizontal
+title,Paper title,Horizontal
+year,Publication year,Horizontal
+venue,Journal/conference/source venue,Horizontal
+country,First-author affiliation country used in the SLR,Horizontal
+brief,Brief summary / notes,Horizontal
+proposed_model,Proposed method/model/framework in the paper,Horizontal
+used_model,Auxiliary model(s) used alongside the main GNN approach,Horizontal
+reason_model,Reason the proposed model was used,Horizontal
+dataset,Dataset(s) used in the study,Horizontal
+availability,Dataset availability label (Public / Private / Public + Private / Not discussed),Horizontal
+dataset_url,Dataset URL(s) if available,Horizontal
+dataset_nature,Short description of the dataset nature,Horizontal
+domain_nature,Domain category / data nature used for Figure 4 style grouping,Horizontal
+filtering,Filtering / preprocessing details if reported,Horizontal
+activation,Activation function(s),Horizontal
+activation_purpose,Purpose of activation function(s),Horizontal
+loss_function,Training loss function(s),Horizontal
+optimizer,Optimizer,Horizontal
+classification,Task granularity category (Graph / Node / Link / Node and edge),Horizontal
+start_embedding_feature_extraction,Auxiliary feature-extraction / embedding-representation model,Horizontal
+embedding_aggregator,Embedding aggregation description,Horizontal
+aggregate_function,Neighborhood aggregation strategy,Horizontal
+embedding_learning,Embedding-learning / model-variant learning field used in workbook,Horizontal
+regularization,Regularization technique(s),Horizontal
+pooling,Pooling layer usage/details,Horizontal
+toolkit,Implementation toolkit/library/language,Horizontal
+normalization,Normalization details,Horizontal
+smoothing,Smoothing details if reported,Horizontal
+readout,Readout layer usage/details,Horizontal
+readout_operation,Readout operation,Horizontal
+dropout_layer,Dropout layer usage/details,Horizontal
+dropout_purpose,Purpose of dropout,Horizontal
+gnn_variant,GNN variant / combination used for Table 7,Horizontal
+embedding_size,Embedding size / dimension,Horizontal
+attention,Attention mechanism indicator/details,Horizontal
+spatial,Spatial component indicator/details,Horizontal
+temporal,Temporal component indicator/details,Horizontal
+spectral,Spectral component indicator/details,Horizontal
+setting,Learning setting / paradigm,Horizontal
+graph_type,Graph type,Horizontal
+compared_with,Base-model comparison field for Table 16,Horizontal
+repository,Repository/database source (ACM / IEEE / Springer / Elsevier),Horizontal

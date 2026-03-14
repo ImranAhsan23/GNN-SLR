@@ -1,0 +1,11 @@
+loss_function,count
+Binary cross entropy,22
+Cross entropy,118
+Focal loss,12
+Huber loss,10
+Mean squared error,59
+Squared loss,2
+Mean absolute error,21
+Custom,6
+Other,84
+Not discussed,29

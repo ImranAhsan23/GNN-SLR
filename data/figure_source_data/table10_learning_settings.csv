@@ -1,0 +1,8 @@
+learning_setting,count
+Self-supervised,21
+Semi-supervised,51
+Supervised,36
+Unsupervised,4
+Supervised + unsupervised,27
+Supervised contrastive learning,26
+Not discussed,198

@@ -1,0 +1,10 @@
+Code,Meaning
+E1,Outside temporal source or language scope
+E2,No explicit GNN relevance or no identifiable GNN family/variant
+E3,Outside the application/task scope used in this review
+E4,Not a primary empirical study
+E5,Not application-oriented under the review design
+E6,No empirical validation through implementation or experimentation
+E7,Duplicate or overlapping record merged with another entry
+E8,Insufficient information for reliable coding at the latest screening stage
+E9,Retracted or withdrawn content

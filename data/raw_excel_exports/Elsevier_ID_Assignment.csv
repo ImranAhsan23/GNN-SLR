@@ -1,0 +1,17 @@
+Assigned_ID,PDF_File,Title,Year,DOI,Venue
+121,4.pdf,AAGNN: Adaptive Airport Graph Neural Network for flight sequence prediction,2024,10.1016/j.eswa.2024.125013,Expert Systems With Applications
+185,3.pdf,Funnel graph neural networks with multi-granularity cascaded fusing for protein–protein interaction prediction,2024,10.1016/j.eswa.2024.125030,Expert Systems With Applications
+239,12.pdf,GNN-IR: Examining graph neural networks for influencer recommendations in social media marketing,2024,10.1016/j.jretconser.2024.103705,Journal of Retailing and Consumer Services
+242,5.pdf,Graph neural network-based surrogate modelling for real-time hydraulic prediction of urban drainage networks,2024,10.1016/j.watres.2024.122142,Water Research
+344,6.pdf,HMCL: High-order Graph Neural Networks with Multi-view Contrastive Learning for Recommendation,2024,10.1016/j.procs.2024.08.182,Procedia Computer Science
+351,7.pdf,LG-GNN: Local and Global Information-aware Graph Neural Network for default detection,2024,10.1016/j.cor.2024.106738,Computers and Operations Research
+356,9.pdf,3C-GNN: Three-channel contrastive graph neural network for semi-supervised node classification,2025,10.1016/j.eswa.2025.127576,Expert Systems With Applications
+357,11.pdf,Community-influencing path explanation for link prediction in heterogeneous graph neural network,2025,10.1016/j.neunet.2025.107645,Neural Networks
+358,16.pdf,DynaKey-GNN: An efficient dynamic key-node multi-graph neural network for spatio-temporal traffic flow forecasting,2025,10.1016/j.engappai.2025.111757,Engineering Applications of Artificial Intelligence
+359,13.pdf,Graph neural network enhanced Internet of Things node classification with different node connections,2025,10.1016/j.jnca.2025.104363,Journal of Network and Computer Applications
+360,10.pdf,Graph neural network with generative adversarial training for node classification on class imbalanced data,2025,10.1016/j.engappai.2025.112264,Engineering Applications of Artificial Intelligence
+361,15.pdf,Graph neural networks for travel distance estimation and route recommendation under probabilistic hazards,2025,10.1016/j.ijtst.2025.02.006,International Journal of Transportation Science and Technology
+362,8.pdf,Leveraging graph neural network for learner performance prediction,2025,10.1016/j.eswa.2025.128724,Expert Systems With Applications
+363,14.pdf,Long-tail item recommendations exploiting graph neural network in collaborating filtering framework,2025,10.1016/j.neucom.2025.130948,Neurocomputing
+364,2.pdf,SAC-GNN: Multi-layer dual graph neural network for service recommendation,2025,10.1016/j.eswa.2025.128608,Expert Systems With Applications
+365,1.pdf,TMS-GNN: Traffic-aware Multistep Graph Neural Network for bus passenger flow prediction,2025,10.1016/j.trc.2025.105107,Transportation Research Part C
